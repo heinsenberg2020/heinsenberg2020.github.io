@@ -1,0 +1,22 @@
+body{
+    background: url("https://www.pixelstalk.net/wp-content/uploads/images1/Dark-Light-Rick-and-Morty-Wallpaper.png") no-repeat center fixed;-webkit-background-size: cover;
+}
+
+
+nav.menu-nav ul li.btn{
+    display: inline-block;
+    list-style-type: none;
+}
+nav.menu-nav ul li.btn a{
+        color: white;
+    background-color: royalblue;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+nav.menu-nav ul li.btn:hover a{
+    color: royalblue;
+    background-color: white;
+    transition: 0.5s all;
+}
